@@ -1,0 +1,6 @@
+[package]
+name = "sympy-expr"
+version = "0.0.1"
+edition = "2021"
+authors = [ "Fabian Löschner" ]
+publish = false
